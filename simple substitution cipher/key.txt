@@ -1,0 +1,27 @@
+a: m
+b: n
+c: o
+d: p
+e: q
+f: r
+g: s
+h: t
+i: u
+j: v
+k: w
+l: x
+m: y
+n: z
+o: ' '
+p: a
+q: b 
+r: c
+s: d
+t: e
+u: f
+v: g
+w: h
+x: i
+y: g
+z: k
+' ': l
